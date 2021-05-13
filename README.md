@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://pamelaloyola.github.io/not-found-page/">
+    <a href="https://pamelaloyola.github.io/my-team-page/">
       Demo
     </a>
     <span> | </span>
@@ -45,6 +45,6 @@ This project is a little responsive design challenge from devchallenges.io
 
 ## Contact
 
-- Website [my-team-page](https://pamelaloyola.github.io/not-found-page/)
+- Website [my-team-page](https://pamelaloyola.github.io/my-team-page/)
 - GitHub [@pamelaLoyola](https://github.com/pamelaLoyola})
 - Twitter [@pamela_loyolaa](https://twitter.com/pamela_loyolaa)
